@@ -1,2 +1,1 @@
-# LPC
-Exercícios da disciplina "Laboratório de Programação e Computadores" 
+# Combat-1977-em-PyGame
